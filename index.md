@@ -5,3 +5,4 @@ This page will host all the memos I (and maybe other mentors) created and also t
 [XML](XML.md)
 
 ## Worksheet
+[paper](1028-3006-1-PB.pdf)
