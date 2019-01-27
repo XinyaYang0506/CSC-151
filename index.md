@@ -1,8 +1,8 @@
 # Hi students!
 This page will host all the memos I (and maybe other mentors) created and also the worksheets. 
 
-## Memo
-[XML](XML.md)
+## Memo _(lastest to earlist)_
+[mentor's responsibility](mentor.md)
+[XML resources](XML.md)
 
 ## Worksheet
-[paper](1028-3006-1-PB.pdf)
