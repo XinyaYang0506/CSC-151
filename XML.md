@@ -1,2 +1,1 @@
-A good resource for XML: 
-https://www.xmlfiles.com/xml/xml-intro/
+[A neat website for XML basics](https://www.xmlfiles.com/xml/xml-intro/)
