@@ -1,4 +1,4 @@
-# CSC-151 notes
+# Hi 151 students!
 ## Memo _(lastest to earlist)_
 [Questions for mentor?](mentor.md)  
 [XML resources](XML.md)
