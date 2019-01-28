@@ -10,7 +10,7 @@ I am happy to answer questions during class meetings and mentor sessions, but if
     * Is there a website that is particularly helpful to you? (e.g. [stack overflow](https://stackoverflow.com/), [GeeksforGeeks](https://www.geeksforgeeks.org/))
     * Have you tried to search for videos?
     * Is there a book for your reference? if yes, go the the learning center or the Kistle library
-4. Then, as long as you don't violete the academic honesty rule, you are welcomed to ask your classmates for help!
+4. Then, as long as you don't violate the academic honesty rule, you are welcomed to ask your classmates for help!
 5. Finally, write Sam, Fahmida, or us a email. We will get back to you during our working hours. 
     * You can find our email addresses using the directory in [Grinnell College website](www.grinnell.edu), or use DB if you have it in your phone. (p.s. As one of the developers of DB, I am open to comments!)
 
