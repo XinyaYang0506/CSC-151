@@ -1,6 +1,4 @@
-# Hi students!
-This page will host all the memos I (and maybe other mentors) created and also the worksheets. 
-
+# Hi 151 students!
 ## Memo _(lastest to earlist)_
 [Question for mentors?](mentor.md)  
 [XML resources](XML.md)
