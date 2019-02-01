@@ -5,4 +5,4 @@
 [XML resources](XML.md)
 
 ## Worksheet
-[0130: XML, Scheme basics, Algorithms](worksheets/0130)
+[0130: XML, Scheme basics, Algorithms](worksheets/0130.pdf)
