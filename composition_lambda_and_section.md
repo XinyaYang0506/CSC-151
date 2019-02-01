@@ -1,7 +1,7 @@
 # Composition, lambda, and section
 by Xinya
 
-I want discuss the difference between the following two code snippets. 
+I will discuss the difference between the following two code snippets. 
 ```scheme
 > (define numwords
     (lambda (str)
