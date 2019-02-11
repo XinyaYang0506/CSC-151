@@ -8,4 +8,5 @@
 
 ## Worksheet
 [0130: XML, Scheme basics, Algorithms](worksheets/0130.pdf)  
-[0206: data types and higher order procedures](worksheets/0206.md)   
+[0206: data types and higher order procedures](worksheets/0206.md)  
+[0207: data types and higher order procedures](worksheets/0207.pdf)  
