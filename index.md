@@ -1,6 +1,6 @@
 # Hi 151 students!
 ## Memo _(lastest to earlist)_
-[Reduce Proc Run-through](reduce.md)
+[Reduce Proc Run-through](reduce.md)  
 [Useful shortcuts and tips](shortcuts.md)  
 [Composition, lambda and section](composition_lambda_and_section.md)  
 [Documentation for 2htdp/image](https://docs.racket-lang.org/teachpack/2htdpimage.html)  
