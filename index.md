@@ -1,5 +1,6 @@
 # Hi 151 students!
 ## Memo _(lastest to earlist)_
+[Regular Expression Cheat Sheet](http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf)
 [Reduce Proc Run-through](reduce.md)  
 [Useful shortcuts and tips](shortcuts.md)  
 [Composition, lambda and section](composition_lambda_and_section.md)  
