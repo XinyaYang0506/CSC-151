@@ -1,6 +1,7 @@
 # Hi 151 students!
 ## Memo _(lastest to earlist)_
-[Reduce Proc Run-through](reduce.md)
+[Regular Expression Cheat Sheet](http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf)  
+[Reduce Proc Run-through](reduce.md)  
 [Useful shortcuts and tips](shortcuts.md)  
 [Composition, lambda and section](composition_lambda_and_section.md)  
 [Documentation for 2htdp/image](https://docs.racket-lang.org/teachpack/2htdpimage.html)  
