@@ -16,4 +16,5 @@
 [0214: Regular Expressions, List operations](worksheets/0214.pdf)  
 [0221: conditionals, preconditions, postconditions, precondition checking,testing](worksheets/0221.pdf)  
 [0228: random, local bindings](worksheets/0228.pdf)
+[0404: recursion](worksheets/0404.md)
 
